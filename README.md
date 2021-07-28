@@ -8,6 +8,6 @@
 
 ## Running
 
-- Clone respo
+- Clone repo
 - Install dependencies, `npm install`
 - Run app, `node app.js`
